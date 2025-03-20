@@ -1,5 +1,5 @@
-# Eaglercraft 1.12
+# SunMoon System 1.12
 
-Made by [Peytonplayz595](https://github.com/PeytonPlayz595) and myself.
+Made by Isun.
 
-WASM version available at https://catfoolyou.github.io/EagsWebTest/wasm
+
